@@ -14,8 +14,7 @@
 Deep Architecture that combines Vision Transformers with Cross-Modal Fusion to distinguish between real and AI-generated fake images! 🕵️‍♂️ Built for the **SP Cup Competition 2024**, this hybrid architecture achieved outstanding performance across multiple datasets.
 
 ## 🧠 Model Architecture
-
-Our innovative approach combines multiple state-of-the-art techniques:
+Approach combines techniques:
 
 ### 🔧 Core Components
 - **🎯 MViT (Multiscale Vision Transformer)**: Custom MViT transformer blocks with multi-head attention and Scales
@@ -63,7 +62,7 @@ Real/Fake Classification
 
 ## 🎪 Training Dataset
 
-Our model was trained on a diverse combination of datasets:
+The model was trained on a diverse combination of datasets:
 - 🏆 **SP Cup Competition 2024 Dataset** - Competition-grade deepfake samples
 - 🌟 **CelebHQ Dataset** - High-quality celebrity images
 - 🎭 **Tested on DeepWild Fake Dataset** - Real-world deepfake evaluation
