@@ -11,8 +11,7 @@
 ---
 
 ## 🌟 What's This About?
-
-Welcome to our **Advanced Deepfake Detection System** - a deep model that combines Vision Transformers with Cross-Modal Fusion to distinguish between real and AI-generated fake images! 🕵️‍♂️ Built for the **SP Cup Competition 2024**, this hybrid architecture achieved outstanding performance across multiple datasets.
+Deep Architecture that combines Vision Transformers with Cross-Modal Fusion to distinguish between real and AI-generated fake images! 🕵️‍♂️ Built for the **SP Cup Competition 2024**, this hybrid architecture achieved outstanding performance across multiple datasets.
 
 ## 🧠 Model Architecture
 
