@@ -1,4 +1,4 @@
-# 🎭 Advanced Deepfake Detection System
+# 🎭 Deepfake Detection System
 
 <div align="center">
 
