@@ -186,13 +186,13 @@ model = classifier_block(num_classes=2, n_blocks=6)
 print(f"Total parameters: {sum(p.numel() for p in model.parameters())}")
 ```
 
-## 📊 Results Visualization
+## Results Visualization
 
 The validation script automatically generates:
-- 🎨 **Confusion Matrix**: Visual representation of predictions
-- 📈 **Performance Metrics**: Precision, Recall, F1-Score
-- 🎯 **Class-wise Accuracy**: Real vs Fake detection rates
-- 🌊 **Feature Analysis**: Multi-modal feature importance
+-  **Confusion Matrix**: Visual representation of predictions
+-  **Performance Metrics**: Precision, Recall, F1-Score
+-  **Class-wise Accuracy**: Real vs Fake detection rates
+-  **Feature Analysis**: Multi-modal feature importance
 
 ## 🛠️ Customization
 
